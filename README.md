@@ -10,7 +10,7 @@ Hi! 👋 It's nice to meet you! I'm Chase, a BYU student with a passion for Comp
 ### Past Projects
 
 - [Text Dungeon Showdown](https://github.com/artmouse155/startup) is a multiplayer, strategic, and competitive text adventure game for up to 4 players. Can _you_ brave the dungeon?
-- [Interactive Journal](https://github.com/artmouse155/univ_101_interactive_journal) created for my Univ 101 course created in Godot Engine
+- [Interactive Journal](https://github.com/artmouse155/univ_101_interactive_journal) built in Godot for my UNIV 101 course
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
